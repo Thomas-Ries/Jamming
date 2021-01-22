@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme='light'>
+<head>
+    <meta charset="UTF-8">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="./CSS/mainPage.css">
+    <link rel="stylesheet" href="./CSS/emojionearea.min.css">
+
+    <title>JAMMING</title>
+</head>
+<body>
+
+    <h2 id="userName"></h2>
+
+    <nav>
+        <a href="./index.html"> Accueil </a>
+        <a href="#" onclick="doNotify()" class="bell">Notification</a>
+
+        <div class="toggle-container">
+            <h5 class="darkMode">Dark Mode</h5>
+            <input type="checkbox" id="switch" name="theme" />
+            <label for="switch">Toggle</label>
+        </div>
+    </nav>
+
+    <h1 class="mainTitle">JAMMING</h1>
+
+    <section class="navBtn">
+        <div class="btnSection">
+            <button id="getUnsplash">Unsplash</button>
+            <button id="getNasa">Nasa APOD</button>
+            <button id="getNasaCuriosity">Curiosity</button>
+            <button id="getChats">Chats</button>
+            <button id="getChiens">Chiens</button>
+
+        </div>
+    </section>
+
+    <div id="responseHTML"></div>
+
+   
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="./JS/mainPage.js"></script>
+</body>
+</html>

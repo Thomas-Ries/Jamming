@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval' http://code.jquery.com/jquery-1.7.1.min.js ">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="./CSS/index.css">
+
+    <title>JAMMING</title>
+</head>
+<body>
+
+    <h1>JAMMING</h1>
+
+
+    <div class="login-page">
+        <div class="form" id="createAccount">
+            <form class="register-form" onsubmit="getRegisterInfo(event)">
+                <input type="text" id="identifiant" placeholder="Identifiant">
+                <input type="text" id="mail" placeholder="Adresse Mail">
+                <input type="text" id="password" placeholder="Mot de Passe">
+                <button type="submit"> S'inscrire </button>
+                <p class="message">Déjà inscrit ? <a href="#">Se Connecter</a></p>
+            </form>
+
+            <form class="login-form" onsubmit="getLoginInfo(event)">
+                <input type="text" id="identifiant" placeholder="Identifiant">
+                <input type="text" id="password" placeholder="Mot de Passe">
+                <button type="submit"> <a href="mainPage.html">Se Connecter</a></button>
+                <p class="message">Pas encore inscrit ? <a href="#">S'inscrire</a></p>
+            </form>
+        </div>
+    </div>
+
+
+    <footer>
+        <p> © Thomas Ries 2021 | @JAMMING</p>
+
+    </footer>
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+<script src="./JS/index.js"></script>
+</body>
+</html>
