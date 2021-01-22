@@ -43,15 +43,12 @@ Authentication
 Personal menu
 ```
 
+![alt tag](https://user-images.githubusercontent.com/73991398/105462542-09d58900-5c8f-11eb-9163-60286c635fb9.png)
+
+![alt tag](https://user-images.githubusercontent.com/73991398/105462543-0a6e1f80-5c8f-11eb-99d0-50fd917093f9.png)
+
 ![alt tag](https://user-images.githubusercontent.com/73991398/105462529-05a96b80-5c8f-11eb-9b6a-16012f6c4009.png)
 
 ![alt tag](https://user-images.githubusercontent.com/73991398/105462538-08a45c00-5c8f-11eb-8c6b-4baee80413a6.png)
 
 ![alt tag](https://user-images.githubusercontent.com/73991398/105462541-09d58900-5c8f-11eb-96ac-3d1dc7aec6d0.png)
-
-![alt tag](https://user-images.githubusercontent.com/73991398/105462542-09d58900-5c8f-11eb-9163-60286c635fb9.png)
-
-![alt tag](https://user-images.githubusercontent.com/73991398/105462543-0a6e1f80-5c8f-11eb-99d0-50fd917093f9.png)
-
-
-
