@@ -37,7 +37,7 @@ Vanilla JS
 JQuey
 ```
 
-# TO Come
+# To come
 ```
 Authentication
 Personal menu
