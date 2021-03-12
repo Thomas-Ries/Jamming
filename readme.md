@@ -1,52 +1,36 @@
 # JAMMING
 
 # Project info
-```
 Electron App with api's call : random cats & dogs images / Mars Rover Curiosity photos / Nasa's APOD / Unsplash random images
 Desktop Application using Api calls 
-```
-# How to Setup
-- cd Jamming
-- npm install
-- npm start
-```
+
 
 # Version
-```
 1.1 
-```
 
 # App lunch in development mode
-```
 npm install (node modules)
 npm run start
-```
+
 
 # Compiles for application
-```
 npm run make-mac
 (with electron forge plugin using the command : npx @electron-forge/cli import)
-```
+
 
 # Install the app on MacOs
-```
 Unzip the Jamming-darwin-x64-1.0.0 (direction folder : out/make/zip/darwin/x64)
-```
 
 # Technologies & Languages used in Front
-```
 Electron JS
 HTML 5
 CSS 3
 Vanilla JS
 JQuey
-```
 
 # To come
-```
 Authentication
 Personal menu
-```
 
 ![alt tag](https://user-images.githubusercontent.com/73991398/105462542-09d58900-5c8f-11eb-9163-60286c635fb9.png)
 
