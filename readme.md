@@ -5,6 +5,11 @@
 Electron App with api's call : random cats & dogs images / Mars Rover Curiosity photos / Nasa's APOD / Unsplash random images
 Desktop Application using Api calls 
 ```
+# How to Setup
+- cd Jamming
+- npm install
+- npm start
+```
 
 # Version
 ```
