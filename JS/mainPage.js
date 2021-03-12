@@ -19,7 +19,7 @@ const { default: axios } = require("axios");
 // ============================
 // ============================
 // ============================
-const API_NASA_KEY = "zxzYwz03PbTzFAGLLN9akcgnxVGmG1Flw00WXTUH";
+const API_NASA_KEY = "personalKey";
 // const API_NASA_APOD = "https://api.nasa.gov/planetary/apod";
 
 async function getNasaApod() {
@@ -70,7 +70,7 @@ function getNasaCuriosity() {
 // ============================
 // ============================
 // ============================
-const API_UNSPLASH = 'http://api.unsplash.com/photos/random?client_id=ydQmmTHyvs5G91qJwh4B_LnBAl8gFNoPrs5txAXFD9U&count=20';
+const API_UNSPLASH = 'http://api.unsplash.com/photos/random?client_id=personalKey&count=20';
 
 function getRandomImages() {
     fetch(API_UNSPLASH)
